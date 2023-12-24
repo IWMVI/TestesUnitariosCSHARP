@@ -1,0 +1,15 @@
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/bin/Debug/net6.0/calculadora
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/bin/Debug/net6.0/calculadora.deps.json
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/bin/Debug/net6.0/calculadora.runtimeconfig.json
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/bin/Debug/net6.0/calculadora.dll
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/bin/Debug/net6.0/ref/calculadora.dll
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/bin/Debug/net6.0/calculadora.pdb
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/obj/Debug/net6.0/calculadora.csproj.AssemblyReference.cache
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/obj/Debug/net6.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/obj/Debug/net6.0/calculadora.AssemblyInfoInputs.cache
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/obj/Debug/net6.0/calculadora.AssemblyInfo.cs
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/obj/Debug/net6.0/calculadora.csproj.CoreCompileInputs.cache
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/obj/Debug/net6.0/calculadora.dll
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/obj/Debug/net6.0/ref/calculadora.dll
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/obj/Debug/net6.0/calculadora.pdb
+/home/wallace/Área de Trabalho/Programação/Cursos/DIO/C#/testes-unitarios/calculadora/obj/Debug/net6.0/calculadora.genruntimeconfig.cache
